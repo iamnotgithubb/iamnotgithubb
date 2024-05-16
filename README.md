@@ -5,7 +5,7 @@ meu nome é camila vitória
 estou estudando no alura
 utilizo este espaço para a minha organização ecompartilhamentos dos meus projetos desenvolvidos
 
-voce pode entrar em contato comigo 😺
+**voce pode entrar em contato comigo 😺**
 alunostaresrudante
 
 ![](![https://i.pinimg.com/originals/62/8c/01/628c01e4b8321396e45d812a871ffd26.jpg]()
