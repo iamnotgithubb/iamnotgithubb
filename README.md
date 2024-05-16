@@ -1,4 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 👋
+
+meu nome é camila vitória
+
+estou estudando no alura
+utilizo este espaço para a minha organização ecompartilhamentos dos meus projetos desenvolvidos
+
+voce pode entrar em contato comigo 😺
+alunostaresrudante
+
+![](link)
+
 
 <!--
 **iamnotgithubb/iamnotgithubb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
