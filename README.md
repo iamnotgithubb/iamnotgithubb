@@ -8,7 +8,8 @@ utilizo este espaço para a minha organização ecompartilhamentos dos meus proj
 voce pode entrar em contato comigo 😺
 alunostaresrudante
 
-![](link)
+![](![Uploading image.png…]()
+)
 
 
 <!--
